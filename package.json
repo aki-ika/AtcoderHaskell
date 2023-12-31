@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "atcoder-cli": "^2.2.0"
+  },
+  "scripts": {
+    "login" : "node_modules/atcoder-cli/bin/index.js login",
+    "session" : "node_modules/atcoder-cli/bin/index.js session",
+    "contest" : "node_modules/atcoder-cli/bin/index.js contest",
+    "task" : "node_modules/atcoder-cli/bin/index.js task",
+    "add" : "node_modules/atcoder-cli/bin/index.js add"
+  }
+}
