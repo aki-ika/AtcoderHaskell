@@ -47,13 +47,6 @@ packages:
   original:
     hackage: attoparsec-0.14.4
 - completed:
-    hackage: base-4.17.1.0@sha256:18b78b6c10f1daa27cf0c6731eb33b239cc251aa0292bd29b806fa2d14f6c03b,12028
-    pantry-tree:
-      sha256: ca70aedd0eb5ce006ac43e29cddafacb1192aadae786e85243e2f96581d14e89
-      size: 19734
-  original:
-    hackage: base-4.17.1.0
-- completed:
     hackage: bifunctors-5.6.1@sha256:82fa7ed8f69f0bfa375de117ab36414c0b96a97ee046edc3ac6da7a295a94755,3273
     pantry-tree:
       sha256: f7f9304b7add6109d676d756c5965b17d543b53412e41706b56044068dde7e39
